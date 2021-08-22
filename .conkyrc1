@@ -1,5 +1,7 @@
 #Enjoy, the spaces were left on purpose.
 #This conky covers the whole screen(set up accordingly) 
+#The positons of variables($example) and text in this config file will reflect on the conky itself
+#So if you find some things are not aligning then move the code arround in the config file.
 background yes
 update_interval 0.3
 
