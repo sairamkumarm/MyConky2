@@ -1,14 +1,8 @@
 # Enjoy, the spaces were left on purpose.
 # This conky covers the whole screen(set up accordingly) 
 background yes
-update_interval 0.3
 
-cpu_avg_samples 2
-net_avg_samples 2
-temperature_unit celsius
 
-double_buffer yes
-no_buffers yes
 text_buffer_size 2048
 alignment left_bottom
 gap_x 14
